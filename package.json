@@ -1,7 +1,7 @@
 {
   "name": "apc-website",
   "version": "1.0.0",
-  "description": "Repo for the apc website at GMHS",
+  "description": "Repo for the apc website at MHS",
   "main": "_automation_scripts/form_submitted_customizer.js",
   "dependencies": {
     "axios": "^0.19.2",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apc-gmhs/apc-website.git"
+    "url": "git+https://github.com/apc-mhs/apc-mhs.github.io"
   },
   "author": "Rohan, Andrew, Jonathan, Danny",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/apc-gmhs/apc-website/issues"
+    "url": "https://github.com/apc-mhs/apc-mhs.github.io/issues"
   },
-  "homepage": "https://github.com/apc-gmhs/apc-website#readme"
+  "homepage": "https://github.com/apc-mhs/apc-mhs.github.io#readme"
 }
